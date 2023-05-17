@@ -58,4 +58,4 @@ Content column 1 | Content column 2
 # Emoji
 
 GitHub supports emoji!
-:+1: :sparles: :camel: :tada: :rocket: :metal: :octocat:
+:+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:
